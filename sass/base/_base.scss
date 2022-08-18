@@ -1,0 +1,17 @@
+.html {
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--primary-text-color);
+  background-color: var(--white-color);
+  font-family: roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  padding-top: 80px;
+}
+
+.header__logo__title,
+.footer-nav__logo > span {
+  color: var(--accent-color);
+}
